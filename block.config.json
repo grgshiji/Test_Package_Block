@@ -19,6 +19,9 @@
     },
     "Member_UI_Container_Block": {
       "directory": "Member_UI_Container_Block"
+    },
+    "Member_UI_Elements_Block": {
+      "directory": "Member_UI_Elements_Block"
     }
   }
 }
