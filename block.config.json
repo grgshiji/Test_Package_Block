@@ -16,6 +16,9 @@
   "dependencies": {
     "Member_Fn_Block": {
       "directory": "Member_Fn_Block"
+    },
+    "Member_UI_Container_Block": {
+      "directory": "Member_UI_Container_Block"
     }
   }
 }
