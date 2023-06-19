@@ -1,0 +1,21 @@
+{
+  "blockId": "DPe9wZ6Sb-ZbJQX2nixzO",
+  "name": "Member_UI_Elements_Block",
+  "type": "ui-elements",
+  "source": {
+    "https": "https://github.com/grgshiji/Test_Package_Block.git",
+    "ssh": "git@github.com:grgshiji/Test_Package_Block.git",
+    "branch": "block_Member_UI_Elements_Block"
+  },
+  "parentBlockIDs": [
+    "bKcIMJ4m_ibTXhybwsmNU"
+  ],
+  "repoType": "mono",
+  "language": "js",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack"
+}
