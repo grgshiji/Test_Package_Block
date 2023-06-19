@@ -15,10 +15,16 @@
   "repoType": "mono",
   "dependencies": {
     "Member_Fn_Block": {
-      "directory": "Member_Fn_Block"
+      "directory": "Member_Fn_Block",
+      "versionId": "qjuufK3I3mZ1ZVoGRBP6C",
+      "version": "0.0.1"
     },
     "Member_UI_Container_Block": {
-      "directory": "Member_UI_Container_Block"
+      "directory": "Member_UI_Container_Block",
+      "versionId": "xYR7lvTaQs15PWZ5HiKcs",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "aCXRRyzbEVnhftfB1wfOH"
 }
