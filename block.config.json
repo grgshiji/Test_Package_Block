@@ -1,0 +1,20 @@
+{
+  "blockId": "dsvmYy8fbiPW72FArN0-e",
+  "name": "Member_Fn_Block",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/Test_Package_Block.git",
+    "ssh": "git@github.com:grgshiji/Test_Package_Block.git",
+    "branch": "block_Member_Fn_Block"
+  },
+  "parentBlockIDs": [
+    "bKcIMJ4m_ibTXhybwsmNU"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
