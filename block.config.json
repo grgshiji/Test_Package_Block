@@ -1,0 +1,21 @@
+{
+  "name": "Test_Package_Block",
+  "type": "package",
+  "blockId": "bKcIMJ4m_ibTXhybwsmNU",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_Test_Package_Block"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "Member_Fn_Block": {
+      "directory": "Member_Fn_Block"
+    }
+  }
+}
