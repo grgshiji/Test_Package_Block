@@ -1,0 +1,18 @@
+{
+  "blockId": "AcCVvKA2tD7gzwRSQrFF6",
+  "name": "Member_Package_Block",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/grgshiji/Test_Package_Block.git",
+    "ssh": "git@github.com:grgshiji/Test_Package_Block.git",
+    "branch": "block_Member_Package_Block"
+  },
+  "parentBlockIDs": [
+    "bKcIMJ4m_ibTXhybwsmNU"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true
+}

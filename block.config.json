@@ -22,6 +22,9 @@
     },
     "Member_UI_Elements_Block": {
       "directory": "Member_UI_Elements_Block"
+    },
+    "Member_Package_Block": {
+      "directory": "Member_Package_Block"
     }
   }
 }
