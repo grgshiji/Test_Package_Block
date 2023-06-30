@@ -1,0 +1,20 @@
+{
+  "blockId": "v-drS0zk67-f514nxSIVz",
+  "name": "Member_Shared_Fn_Block",
+  "type": "shared-fn",
+  "source": {
+    "https": "https://github.com/grgshiji/Test_Package_Block.git",
+    "ssh": "git@github.com:grgshiji/Test_Package_Block.git",
+    "branch": "block_Member_Shared_Fn_Block"
+  },
+  "parentBlockIDs": [
+    "bKcIMJ4m_ibTXhybwsmNU"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
