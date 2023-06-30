@@ -22,6 +22,12 @@
     },
     "Member_UI_Elements_Block": {
       "directory": "Member_UI_Elements_Block"
+    },
+    "Member_Package_Block": {
+      "directory": "Member_Package_Block"
+    },
+    "Member_Shared_Fn_Block": {
+      "directory": "Member_Shared_Fn_Block"
     }
   }
 }
