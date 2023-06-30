@@ -25,6 +25,9 @@
     },
     "Member_Package_Block": {
       "directory": "Member_Package_Block"
+    },
+    "Member_Shared_Fn_Block": {
+      "directory": "Member_Shared_Fn_Block"
     }
   }
 }
