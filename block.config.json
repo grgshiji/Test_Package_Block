@@ -28,6 +28,12 @@
     },
     "Member_Shared_Fn_Block": {
       "directory": "Member_Shared_Fn_Block"
+    },
+    "Member_Shared_Fn_Block1": {
+      "directory": "Member_Shared_Fn_Block1"
+    },
+    "Member_Package_Block1": {
+      "directory": "Member_Package_Block1"
     }
   }
 }
